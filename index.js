@@ -78,7 +78,7 @@ app.post("/bfhl", (req, res) => {
 
 
 app.get("/", (req, res) => {
-    res.send("Bajaj Finserv BFHL API is running 🚀");
+    res.send("Server is up and running.");
 });
 
 
